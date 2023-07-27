@@ -6,9 +6,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,6 +82,10 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 27/07/2023 03:54:40 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Huang-Yuhan/Huang-Yuhan/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/07/2023 18:34:43 UTC
 <!--END_SECTION:waka-->
