@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,16 +49,16 @@ Sunday                   26 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       23 mins             █████████████████████████   100.00 % 
+C#                       1 hr 19 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            23 mins             █████████████████████████   100.00 % 
+Visual Studio            1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wechatminigame           23 mins             █████████████████████████   100.00 % 
+wechatminigame           1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -78,5 +78,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Huang-Yuhan/Huang-Yuhan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2023 18:34:54 UTC
+ Last Updated on 29/08/2023 18:34:50 UTC
 <!--END_SECTION:waka-->
